@@ -142,3 +142,8 @@
 		footer#rodape p {
 			text-align: center;
 		}
+
+		footer#rodape a {
+			color: #000000;
+			text-decoration: none;
+		}
