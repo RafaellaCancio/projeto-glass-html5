@@ -242,7 +242,8 @@
 			text-align: center;
 		}
 
-		/* footer#rodape a {
+		/* Essas linhas sobrescrevem os links <a> no <body>
+			footer#rodape a {
 			color: #000000;
 			text-decoration: none;
 		} */
